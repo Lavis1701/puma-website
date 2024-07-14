@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+
+}
+.topnav{
+    background-color: #8a7351;
+    padding: 5px;
+}
+.navbarr{
+    background-color: rgb(0, 0, 0);
+    padding: 7px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.navbarr li a{
+    color: white;
+    margin: 7px;
+}
+/* end of season sale  */
+.end{
+    position: absolute;
+    top: 40%;
+    margin-left: 1090px;
+    font-size:larger;
+    color: white;
+    font-weight: bolder;
+}
+.end button{
+    border-radius: 0%;
+    margin-left: 20px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.cool h1{
+    text-align: center;
+    margin-top: 60px;
+}
+.para{
+    text-align: center;
+
+}
+/* rounded image */
+.round img{
+    height: 100%;
+    width: 150px;
+    margin: -6px;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    padding: 10px;
+}
+.see{
+    position: absolute;
+    top: 40%;
+    margin-left: 100px;
+    font-size:larger;
+    color: white;
+    font-weight: bolder;
+}
+.see button{
+    border-radius: 0%;
+    margin-left: 140px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.cricket{
+    margin-top: 90px;
+}
+.play{
+    position: absolute;
+    top: 40%;
+    margin-left: 1270px;
+    font-size:larger;
+    color: white;
+    font-weight: bolder;
+}
+.play button{
+    border-radius: 0%;
+    margin-left: 50px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.back{
+    position: absolute;
+    top: 180px;
+    margin-left: 38px;
+    color: white;
+}
+.back button{
+    border-radius: 0;
+    font-size: medium;
+    font-weight: bold;
+}
+.acmilan button{
+    margin-left: 70px;
+
+}
+.palmpuma{
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    margin-left: 627px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+}
+.palmpuma button{
+    border-radius: 0;
+    margin-left: 10px;
+}
+.mp4 button{
+    position: absolute;
+    top:970px;
+    margin-left: 690px;
+    border-radius: 0%;
+}
+.future{
+    position: absolute;
+    top: 40%;
+    margin-left: 1090px;
+    font-size:larger;
+    color: white;
+    font-weight: bolder;
+}
+.future button{
+    border-radius: 0%;
+    margin-left: 140px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.photo{
+    display: flex;
+    margin-left: 20px;
+}
+.iimmg{
+    margin: 10px;
+}
+.write h2  {
+    position: absolute;
+    top: 899px;
+    margin-left: 40px;
+    font-size: x-large;
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+.write h5 {
+    position: absolute;
+    top: 950px;
+    margin-left: 40px;
+    font-size: large;
+    font-weight:350;
+    font-family: "Oswald", sans-serif;
+    color: rgb(255, 255, 255);
+}
+.CASUAL{
+    margin-left: 390px;
+}
+.CASUAL h2  {
+    position: absolute;
+    top: 899px;
+    margin-left: 40px;
+    font-size: x-large;
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+.CASUAL h5 {
+    position: absolute;
+    top: 950px;
+    margin-left: 40px;
+    font-size: large;
+    font-weight:350;
+    font-family: "Oswald", sans-serif;
+    color: rgb(255, 255, 255);
+}
+.SOFT{
+    margin-left: 750px;
+}
+.SOFT h2  {
+    position: absolute;
+    top: 899px;
+    margin-left: 40px;
+    font-size: x-large;
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+.SOFT h5 {
+    position: absolute;
+    top: 950px;
+    margin-left: 40px;
+    font-size: large;
+    font-weight:350;
+    font-family: "Oswald", sans-serif;
+    color: rgb(255, 255, 255);
+}
+.SETS{
+    margin-left: 1130px;
+    padding: 40px;
+}
+.SETS h2  {
+    position: absolute;
+    top: 899px;
+    margin-left: 40px;
+    font-size: x-large;
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+.SETS h5 {
+    position: absolute;
+    top: 950px;
+    margin-left: 40px;
+    font-size: large;
+    font-weight:350;
+    font-family: "Oswald", sans-serif;
+    color: rgb(255, 255, 255);
+}
+.color{
+    background-color: #adbccc;
+    padding: 350px;
+    margin-top: 10px;
+    
+}
+.text h3{
+    margin-top: -298px;
+    margin-left: -301px;
+    margin-bottom: 10px;
+    font-size: xx-large;
+}
+.text h5{
+    margin-top: -10px;
+    margin-left: -291px;
+    margin-bottom: 10px;
+}
+
+.color button{
+    border-radius: 0;
+    margin-left: -286px;
+    margin-bottom: 20px;
+}
+.greenshoe img{
+    justify-content: end;
+    margin-left: 700px;
+    position: absolute;
+    top: 60%;
+}
+.shoevid{
+    position: absolute;
+    top: 75%;
+    margin: 60px;
+    padding: 90px;
+}
+.manchester img{
+    margin-top: 110px;
+
+}
+.manchester button{
+    margin-left: 10px;
+}
+.man{
+    position: absolute;
+    top: 180px;
+    margin-left: 38px;
+    color: white;
+    margin-top: 120px;
+}
+.man button{
+    border-radius: 0;
+}
+.sneaker{
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    margin-left: 1100px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+.sneaker button{
+    border-radius: 0;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+}
+.coog img{
+    margin-top: 10px;
+   
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px 0;
+}
+.gallery img{
+    flex-wrap: wrap;
+    width: 320px;
+    height: 300px;
+    margin: 10px 0;
+}
+.gallery img:hover{
+    scale: 1.2;
+    transition: 0.10s;  
+}
+.ATHLETES{
+    position: absolute;
+    top: 180px;
+    margin-left: 38px;
+    color: white;
+}
+.ATHLETES button{
+    border-radius: 0;
+    font-size: medium;
+    font-weight: bold;
+}
+.ATHLETES button{
+    margin-left: 70px;
+
+}
+.footer p a{
+    text-decoration: none;
+}
